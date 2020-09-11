@@ -1,16 +1,17 @@
-### Hi there 👋
+## Arthur Pereira Exterkoetter :brazil:
+### I'm an information systems student at UFSC and a Developer at Keeps 
 
-<!--
-**Arthurpex/Arthurpex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Programming languages and Tools:
+[<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
+[<img align="left" alt="Angular" width="18px" src="https://simpleicons.org/icons/angular.svg" />](https://angular.io/)
+[<img align="left" alt="Javascript" width="18px" src="https://simpleicons.org/icons/javascript.svg" />](https://www.javascript.com/)
+[<img align="left" alt="reactivex" width="18px" src="https://simpleicons.org/icons/reactivex.svg" />](http://reactivex.io//)
+[<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Git" width="18px" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
+[<img align="left" alt="Pandas" width="18px" src="https://simpleicons.org/icons/pandas.svg" />](https://pandas.pydata.org/)
+[<img align="left" alt="PostgreSQL" width="18px" src="https://simpleicons.org/icons/postgresql.svg" />](https://www.postgresql.org/)
+[<img align="left" alt="JupyterNotebook" width="18px" src="https://simpleicons.org/icons/jupyter.svg" />](https://jupyter.org/)
+[<img align="left" alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
+[<img align="left" alt="CSS" width="18px" src="https://simpleicons.org/icons/css3.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
