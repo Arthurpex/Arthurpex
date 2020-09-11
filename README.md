@@ -2,7 +2,7 @@
 ### I'm an information systems student at UFSC and a Developer at Keeps 
 
 💻 I enjoy Data Science and Technology. <br>
-🎯 My goal is learning as much as i can. <br>
+🎯 My goal is to learn as much as i can. <br>
 📍 Living in Florianópolis, SC. <br>
 
 ### Programming languages and Tools:
