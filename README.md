@@ -1,9 +1,9 @@
 ## Arthur Pereira Exterkoetter :brazil:
 ### I'm an information systems student at UFSC and a Developer at Keeps 
 
-💻 I enjoy Data Science and Technology
-🎯 My goal is learning as much as i can
-📍 Living in Florianópolis, SC 
+💻 I enjoy Data Science and Technology. <br>
+🎯 My goal is learning as much as i can. <br>
+📍 Living in Florianópolis, SC. <br>
 
 ### Programming languages and Tools:
 [<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
