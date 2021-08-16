@@ -1,7 +1,7 @@
 ## Arthur Pereira Exterkoetter :brazil:
 ### I'm an information systems student at UFSC and a Developer at Khomp
 
-💻 I enjoy Data Science and Technology. <br>
+💻 I enjoy Programming and Technology. <br>
 🎯 My goal is to learn as much as i can. <br>
 📍 Living in Florianópolis, SC. <br>
 
