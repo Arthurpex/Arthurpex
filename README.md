@@ -1,4 +1,4 @@
-## Arthur Pereira Exterkoetter :brazil:
+## Arthur Exterkoetter
 ### I'm an information systems student at UFSC and a Developer at VONQ
 Currently working with Python and Django <br>
 🎯 My goal is to learn as much as i can. <br>
