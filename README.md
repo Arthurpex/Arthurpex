@@ -1,7 +1,6 @@
 ## Arthur Pereira Exterkoetter :brazil:
-### I'm an information systems student at UFSC and a Developer at Khomp
-
-💻 Currently working with NodeJS + Postgres + Docker <br>
+### I'm an information systems student at UFSC and a Developer at VONQ
+Currently working with Python and Django <br>
 🎯 My goal is to learn as much as i can. <br>
 📍 Living in Florianópolis, SC. <br>
 
